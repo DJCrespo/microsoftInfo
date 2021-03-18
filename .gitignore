@@ -1,3 +1,18 @@
 #folders
 venv
+<<<<<<< f2e390b15f6c526ed3ce7468d32ea4ca61e0453d
 .vscode
+=======
+.vscode
+
+#files
+<<<<<<< c75afe3be0a9fd19674913436b10ab2316bc9b9d
+Credentials.md
+=======
+<<<<<<< 0e071b40c8c435abe65a2582b9f41131f1de6789
+*.md
+=======
+didier.md
+>>>>>>> General changes
+>>>>>>> General changes
+>>>>>>> General changes
