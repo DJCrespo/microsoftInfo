@@ -1,3 +1,6 @@
 #folders
 venv
 .vscode
+
+#files
+Credentials.md
