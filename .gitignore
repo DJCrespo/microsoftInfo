@@ -1,4 +1,5 @@
 #folders
+<<<<<<< HEAD
 venv
 <<<<<<< f2e390b15f6c526ed3ce7468d32ea4ca61e0453d
 .vscode
@@ -16,3 +17,10 @@ didier.md
 >>>>>>> General changes
 >>>>>>> General changes
 >>>>>>> General changes
+=======
+venv/
+.vscode/
+
+#files
+Credentials.md*
+>>>>>>> develop
